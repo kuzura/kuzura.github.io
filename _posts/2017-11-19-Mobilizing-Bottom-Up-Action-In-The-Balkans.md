@@ -11,8 +11,7 @@ date: 2017-11-19
 </p>
 
 <p>
-	The piece was written on 07 November 2017. 
-	
+	The piece was written on 07 November 2017.
 	Since my site does not support comments yet, feel free to write me directly using my <a>href="mailto:olkuzura@gmail.com">email</a>.
 </p>
 
